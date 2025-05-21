@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Box, InputBase, IconButton, Collapse } from "@mui/material";
 import { SearchNormal } from "iconsax-react";
-import theme from "@/theme/theme";
+import theme from "@/canfig/theme/theme";
 
 const SearchBar = () => {
     const [isOpen, setIsOpen] = useState(false);

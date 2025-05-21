@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import {Button, Box, Typography, CircularProgress, Card} from "@mui/material";
-import theme from "@/theme/theme";
+import theme from "@/canfig/theme/theme";
 
 interface Product {
     id: number;

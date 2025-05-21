@@ -18,6 +18,7 @@ interface AppBarProps {
     open?: boolean;
 }
 
+
 const drawerWidth = 250;
 
 const AppBar = styled(MuiAppBar, {
